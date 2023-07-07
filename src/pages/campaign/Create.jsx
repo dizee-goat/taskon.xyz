@@ -17,8 +17,7 @@ export default function Create() {
             <div className="flex flex-row md:px-[120px] mt-[30px] gap-x-[30px]">
                 <div className="hidden xl:block">
                     <div className="w-[320px] h-[85vh] flex flex-col gap-y-[30px] border-r border-r-[#ffffff0f]">
-                        <h1 className="text-[32px] text-white">Create Campaign</h1>
-
+                        <h1 className="text-[30px] text-white font-semibold">Create Campaign</h1>
                     </div>
                 </div>
                 <div className="hidden sm:block xl:hidden">
